@@ -11,7 +11,7 @@ h4 {
     margin-bottom: 0;
 }
 
-[class*="col-"] {
+[class*="col"] {
     padding-top: 15px;
     padding-bottom: 15px;
     background-color: #eee;
